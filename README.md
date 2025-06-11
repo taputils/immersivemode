@@ -20,7 +20,7 @@ Then add the dependency to your **module-level** `build.gradle`:
 
 ```gradle
 dependencies {
-    implementation 'com.github.taputils:immersivemode:1.0'
+    implementation 'com.github.taputils:immersivemode:v1.0'
 }
 ```
 
