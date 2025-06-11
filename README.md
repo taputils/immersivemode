@@ -30,7 +30,11 @@ dependencies {
 Call the following method from your Activity or Fragment to enable immersive mode:
 
 ```java
-ImmersiveMode.enable(this); // For Activity
+import com.taputils.immersivemode.ImmersiveMode
+```
+
+```java
+ImmersiveMode.enableImmersiveMode(this); // For Activity
 ```
 
 OR
