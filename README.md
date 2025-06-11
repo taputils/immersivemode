@@ -23,9 +23,6 @@ dependencies {
     implementation 'com.github.taputils:immersivemode:v1.0'
 }
 ```
-
-> 🔖 Replace `1.0` with the latest version shown on [JitPack](https://jitpack.io/#taputils/immersivemode)
-
 ---
 
 ## 🚀 Usage
